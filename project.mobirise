@@ -71,7 +71,7 @@
             "paddingTop": 4,
             "paddingBottom": 4,
             "bgColor": "#fff",
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -99,7 +99,7 @@
             "paddingTop": 4,
             "paddingBottom": 4,
             "bgColor": "#fff",
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
